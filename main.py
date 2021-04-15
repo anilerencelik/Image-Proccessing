@@ -5,6 +5,7 @@ Created on Sat Nov 21 00:20:23 2020
 @author: Eren
 """
 import tkinter as tk
+import tkinter.filedialog
 import cv2
 from skimage import io
 from skimage import exposure
